@@ -1,0 +1,43 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: blue;
+    font-family: arial;
+}
+
+p {
+    color: black;
+    font-family: arial;
+    border: 3px solid black;
+    padding: 15px;
+    margin: 50px;
+}
+
+p.lemon{
+    color: yellow;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: brown;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
