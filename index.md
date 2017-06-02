@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-US">
 
-You can use the [editor on GitHub](https://github.com/mrlukemackenzie/mrlukemackenzie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<head>
+		<title>Kate's first html page</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<pre>
+		PRE-FORMATTED TEXT
+				remains exactly
 
-### Markdown
+									as it is WriTTen
+	</pre>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
 
-```markdown
-Syntax highlighted code block
+<h1 style="color:yellow;">Heading 1</h1>
+<h1>Heading 1</h1>
+<h1>Heading 1</h1>
+<h1>Heading 1</h1>
+<h1>Heading 1</h1>
 
-# Header 1
-## Header 2
-### Header 3
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
 
-- Bulleted
-- List
+<p>
+	<strong>this is bold text</strong>
+</p>
 
-1. Numbered
-2. List
+<i>This text is itallic</i>
 
-**Bold** and _Italic_ and `Code` text
+<hr>
 
-[Link](url) and ![Image](src)
-```
+<p class="lemon" title="Luke is very clever...not">
+	Lorem ipsum dolor sit amet, <sub>consectetur adipiscing elit</sub>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	Ut enim ad minim veniam, quis nostrud <ins>exercitation ullamco</ins> laboris nisi ut aliquip ex ea commodo consequat. Duis
+	aute irure dolor in <del>this is deleted text</del> in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+	cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>
+	For 50 years, WWF has been protecting the future of nature.
+	The world's leading conservation organization,
+	WWF works in 100 countries and is supported by
+	1.2 million members in the United States and
+	close to 5 million globally.
+</p>
 
-### Jekyll Themes
+<abbr title="world wildlife fund">
+	WWF
+</abbr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrlukemackenzie/mrlukemackenzie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br />
+<br />
 
-### Support or Contact
+<div></div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<address>
+	Written by John Doe.<br>
+	Visit us at:<br>
+	Example.com<br>
+	Box 564, Disneyland<br>
+	USA
+</address>
+
+
+<a href="http://www.u2.com" target="_blank">
+	<img src="https://nadineoregan.files.wordpress.com/2015/09/bono.jpg" alt="An image of Bono" title="A black and white picture of Bono" width="200" height="300">
+</a>
+
+<br />
+
+<cite>
+	Until the end of the world
+</cite>
+
+</body>
+
+<!--
+These are my comments, they don't show on the page
+-->
+
+</html>
