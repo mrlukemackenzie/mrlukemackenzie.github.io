@@ -1,0 +1,40 @@
+.list-group-item.active.blue {
+    background-color: #428bca;
+    border-color: #428bca;
+}
+
+.list-group-item.active.orange {
+    background-color: #FF5722;
+    border-color: #FF5722;
+}
+
+.list-group-item.active.teal {
+    background-color: #009688;
+    border-color: #009688;
+}
+
+.list-group-item.active.pink {
+    background-color: #e91e63;
+    border-color: #e91e63;
+}
+
+.btn-primary.blue {
+    background-color: #428bca;
+    border-color: #428bca;
+}
+
+.btn-primary.orange {
+    background-color: #FF5722;
+    border-color: #FF5722;
+}
+
+.btn-primary.teal {
+    background-color: #009688;
+    border-color: #009688;
+}
+
+.btn-primary.pink {
+    background-color: #e91e63;
+    border-color: #e91e63;
+}
+
