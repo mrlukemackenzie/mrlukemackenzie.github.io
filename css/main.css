@@ -30,11 +30,11 @@ h1{
 
 h2{
   font-size: 20px;
+  color: #ffffff;
 }
 
 h3{
   font-size: 16px;
-  color: #787878;
   font-weight: 400;
   line-height: 24px;
 }
@@ -289,7 +289,7 @@ input.search-form:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
-	background-color: #528c2f;
+	background-color: #ff3f85;
   color: #fff;
 }
 
@@ -309,7 +309,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #528c2f;
+  background-color: #ff3f85;
   color: #fff;
 }
 
@@ -2532,7 +2532,7 @@ shortcodes page css
 ************************/
 #bottom {
   background: #fff;
-  border-bottom: 5px solid #528c2f;
+  border-bottom: 5px solid #ff3f85;
   font-size: 14px;
 }
 
