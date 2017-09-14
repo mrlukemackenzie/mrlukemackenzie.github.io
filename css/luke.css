@@ -1,20 +1,30 @@
+.list-group-item.rain {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: none;
+    border: 1px solid red;
+}
+
 .list-group-item.active.blue {
     background-color: #428bca;
     border-color: #428bca;
 }
 
 .list-group-item.active.orange {
-    background-color: #ff3f85;
+    background-color: none;
     border-color: #ff3f85;
 }
 
 .list-group-item.active.teal {
-    background-color: #b97fc1;
+    background-color: none;
     border-color: #b97fc1;
+
 }
 
 .list-group-item.active.pink {
-    background-color: #4DBFBF;
+    background-color: #none;
     border-color: #4DBFBF;
 }
 
