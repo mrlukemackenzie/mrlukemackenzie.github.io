@@ -4,7 +4,7 @@
 }
 
 .list-group-item.active.orange {
-    background-color: #ff3f85;
+    background-color: none;
     border-color: #ff3f85;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .list-group-item.active.pink {
-    background-color: #4DBFBF;
+    background-color: #none;
     border-color: #4DBFBF;
 }
 
