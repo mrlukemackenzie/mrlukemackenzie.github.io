@@ -1,9 +1,17 @@
-.list-group-item.active.seethru {
+.list-group-item.active.purple {
     display: block;
     padding: 10px 15px;
     margin-bottom: -1px;
     background-color: none;
-    border: 1px solid #428bca;
+    border: 1px solid ##b97fc1;
+}
+
+.list-group-item.active.aqua {
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: none;
+    border: 1px solid #4DBFBF;
 }
 
 .list-group-item.active.blue {
