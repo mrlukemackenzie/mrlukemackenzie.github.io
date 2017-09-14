@@ -9,7 +9,7 @@
 }
 
 .list-group-item.active.teal {
-    background-color: #b97fc1;
+    background-color: none;
     border-color: #b97fc1;
 }
 
