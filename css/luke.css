@@ -1,10 +1,9 @@
-.list-group-item.rain {
-    position: relative;
+.list-group-item.active.seethru {
     display: block;
     padding: 10px 15px;
     margin-bottom: -1px;
-    background-color: none;
-    border: 1px solid red;
+    background-color: yellow;
+    border: 1px solid #ddd;
 }
 
 .list-group-item.active.blue {
@@ -13,18 +12,17 @@
 }
 
 .list-group-item.active.orange {
-    background-color: none;
+    background-color: #ff3f85;
     border-color: #ff3f85;
 }
 
 .list-group-item.active.teal {
-    background-color: none;
+    background-color: #b97fc1;
     border-color: #b97fc1;
-
 }
 
 .list-group-item.active.pink {
-    background-color: #none;
+    background-color: #4DBFBF;
     border-color: #4DBFBF;
 }
 
