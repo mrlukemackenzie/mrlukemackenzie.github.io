@@ -2,8 +2,7 @@
     display: block;
     padding: 10px 15px;
     margin-bottom: -1px;
-    background-color: yellow;
-    border: 1px solid #ddd;
+    border: 1px solid #428bca;
 }
 
 .list-group-item.active.blue {
