@@ -1,3 +1,12 @@
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ff3f85;
+}
+
 .list-group-item.active.blue {
     background-color: #428bca;
     border-color: #428bca;
@@ -11,6 +20,7 @@
 .list-group-item.active.teal {
     background-color: none;
     border-color: #b97fc1;
+
 }
 
 .list-group-item.active.pink {
