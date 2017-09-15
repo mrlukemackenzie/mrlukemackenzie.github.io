@@ -1489,7 +1489,7 @@ ul.social_icons li  a i{
   padding-bottom: 30px;
   position: relative;
   margin-bottom: 18px;
-  margin-top: 60px;
+  margin-top: 0px;
 }
 
 .get-started h2 {
@@ -1775,12 +1775,11 @@ ul.social_icons li  a i{
   top: 0;
 }
 
-.pricing-area .heading-blue,
-.pricing-area .heading-orange,
-.pricing-area .heading-teal,
-.pricing-area .heading-pink {
+
+.pricing-area .heading-grey {
   padding:17px 0;
   border-radius:2px 2px 0 0;
+    background: #24292e
 }
 
 .pricing-area .heading-one,
